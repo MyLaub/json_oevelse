@@ -13,6 +13,21 @@
             "postnummer": 2100
         },
         "fødselsdato": "1997-10-08"
+    },
+    {
+        "navne":{
+            "fornavn": "Amanda",
+            "efternavn": "Krilov"
+        },
+        "alder": 25,
+        "studerende": true,
+        "interesser": ["design", "medier", "rejser"],
+        "adresse":{
+            "vej": "Falkonervænget",
+            "by": "Frederiksberg",
+            "postnummer": "1952"
+        },
+        "fødselsdato": "1999-03-26"
     }
 
 ]
