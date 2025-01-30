@@ -1,0 +1,15 @@
+{
+    "navne":{
+        "fornavn": "My",
+        "efternavn":"Laub"
+    },
+    "alder": 27,
+    "studerende": true,
+    "interesser": ["Design", "Fotografi", "Madlavning"],
+    "adresse": {
+        "vej": "Faksegade 10 2 tv.",
+        "by": "København Ø",
+        "postnummer": 2100
+    },
+    "fødselsdato": "1997-10-08"
+}
