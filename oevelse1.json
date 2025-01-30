@@ -44,6 +44,22 @@
             "postnummer": 2200
         },
         "fødselsdato": "06-04-2002"
+    },
+    {
+        "navne": {
+            "fornavn": "Luna",
+            "mellemnavn": "Torp",
+            "efternavn": "Westh"
+        },
+        "alder": "23",
+        "studerende": "true",
+        "interesser": ["Madlavning", "Kode", "Design", "Neglelak i flotte farver"],
+        "adresse": {
+            "vej": "Ingrid Marievej 83",
+            "by": "Valby",
+            "postnummer": "2500"
+        },
+        "fødselsdato": "14-07-2001"
     }
 
 ]
